@@ -40,3 +40,4 @@ savon=50
 #affichons la nouvelle valeur du porte monnaie apres spn achat
 result=valeur - savon
 print("la nouvelle valeur du porte monnaie est de"+str(result))
+print("salut DIT")
